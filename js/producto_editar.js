@@ -10,7 +10,7 @@ nombre:"",
 imagen:"",
 stock:0,
 precio:0,
-url:'http://mcerda.pythonanywhere.com/productos/'+id,
+url:'https://bdproyecto.pythonanywhere.com/productos/'+id,
 }
 },
 methods: {
